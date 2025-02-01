@@ -194,7 +194,7 @@ Spring Boot is Open Source software released under the https://www.apache.org/li
 
 == TODO:
 
-* [] Find a way to include this spring as a dependency in other java project
+* [x] Find a way to include this spring as a dependency in other java project
 * [] Change the default banner to something similar in order to check if the changes apply
 * [] Find where does the banner implementation stays
 * [] Find a free weather forecast API to use
