@@ -190,3 +190,15 @@ The https://spring.io/[spring.io] site contains several guides that show how to 
 == License
 
 Spring Boot is Open Source software released under the https://www.apache.org/licenses/LICENSE-2.0.html[Apache 2.0 license].
+
+
+== TODO:
+
+[] Find a way to include this spring as a dependency in other java project
+[] Change the default banner to something similar in order to check if the changes apply
+[] Find where does the banner implementation stays
+[] Find a free weather forecast API to use
+[] Find a free IP Localisation API to use
+[] Make a template for the weather forecast
+[] Make call for the location, make a call for the forecast, include the received
+information in the template and add that template instead of the default spring banner.txt
