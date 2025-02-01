@@ -194,11 +194,11 @@ Spring Boot is Open Source software released under the https://www.apache.org/li
 
 == TODO:
 
-* [x] Find a way to include this spring as a dependency in other java project
-* [] Change the default banner to something similar in order to check if the changes apply
-* [] Find where does the banner implementation stays
-* [] Find a free weather forecast API to use
-* [] Find a free IP Localisation API to use
-* [] Make a template for the weather forecast
-* [] Make call for the location, make a call for the forecast, include the received
+* [ ] Find a way to include this spring as a dependency in other java project
+* [ ] Change the default banner to something similar in order to check if the changes apply
+* [ ] Find where does the banner implementation stays
+* [ ] Find a free weather forecast API to use
+* [ ] Find a free IP Localisation API to use
+* [ ] Make a template for the weather forecast
+* [ ] Make call for the location, make a call for the forecast, include the received
 information in the template and add that template instead of the default spring banner.txt
